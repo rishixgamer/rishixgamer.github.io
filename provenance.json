@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "sourceRepository": "https://github.com/rishixgamer/mirrormetric",
+  "tag": "v1.0.0-beta.1",
+  "commit": "2cca5d4ba32f03e8fe6bccaad7d21792a5dafc7f",
+  "build": "pnpm build",
+  "hostingAdaptations": [
+    "route index copies",
+    "production canonical and sitemap URLs",
+    "meta-delivered content security policy"
+  ]
+}
