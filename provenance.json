@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "https://github.com/rishixgamer/mirrormetric",
-  "sourcePullRequest": "https://github.com/rishixgamer/mirrormetric/pull/9",
+  "sourcePullRequest": "https://github.com/rishixgamer/mirrormetric/pull/10",
   "tag": null,
-  "commit": "10312ea8b3e04f9d893427aa76e272205efa7c35",
+  "commit": "b900e03d6b3284fa236f53b2c2ba32444792707d",
   "build": "pnpm build",
   "hostingAdaptations": [
     "route index copies",
